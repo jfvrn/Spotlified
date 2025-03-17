@@ -1,10 +1,10 @@
 {
 
  "short_name": "Spotlified",
- "name": "Spotlified - Unleash the JS",
+ "name": "Spotlified - JFVRN",
  "icons": [
    {
-    "src": "images/logo_spotlified.png",
+    "src": "./images/logo_spotlified.png",
      "type": "image/png",
      "sizes": "512x512"
    }

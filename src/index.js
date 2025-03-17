@@ -62,4 +62,4 @@ router()
 window.addEventListener('offline', document.querySelector("body").classList.add("offline"))
 window.addEventListener('online', document.querySelector("body").classList.remove("offline"))
 
-navigator.serviceWorker.register("service-worker.js")
+navigator.serviceWorker.register("OneSignalSDKWorker.js")
