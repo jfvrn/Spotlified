@@ -93,7 +93,7 @@ const displayFavoriteSongs = () => {
 
 const displayLyrics = async (id) => {
   const song = await loadLyrics(id);
-  console.log(lyrics);
+  console.log(song);
 
   document.querySelector("#lyrics-section").innerHTML = "";
 
